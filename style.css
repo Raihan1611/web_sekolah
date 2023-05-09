@@ -1,0 +1,34 @@
+.raihan{
+    color: rgb(243, 11, 11);
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.smbt{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.kmptn{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.prfl{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.exs{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.hello{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: rgb(132, 255, 9);
+}
+/*mobile phone*/
+@media (max-width: 450px) {
+    html {
+      font-size: 55;
+}
+}
